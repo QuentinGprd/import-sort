@@ -30,7 +30,7 @@
   "devDependencies": {
     "@types/atom": "^1.31.0",
     "@types/chai": "^4.0.0",
-    "@types/mocha": "^5.2.5",
+    "@types/mocha": "^10.0.1",
     "@types/node": "^10.12.20",
     "@typescript-eslint/eslint-plugin": "^1.2.0",
     "chai": "^4.0.2",
@@ -40,7 +40,7 @@
     "eslint-plugin-import": "^2.16.0",
     "eslint-plugin-jsx-a11y": "^6.2.0",
     "eslint-plugin-react": "^7.12.4",
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "ts-node": "^8.0.2",
     "typescript": "^3.2.4"
   },
