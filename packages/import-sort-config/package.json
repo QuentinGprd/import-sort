@@ -41,7 +41,7 @@
     "typescript": "^3.2.4"
   },
   "dependencies": {
-    "cosmiconfig": "^5.0.5",
+    "cosmiconfig": "^8.3.6",
     "find-root": "^1.0.0",
     "minimatch": "^3.0.4",
     "resolve-from": "^4.0.0"
